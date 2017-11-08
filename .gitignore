@@ -11,7 +11,10 @@
 .mtj.tmp/
 
 # Idea
-.idea
+.idea/
+
+# Maven
+target/
 
 # Package Files #
 *.jar
